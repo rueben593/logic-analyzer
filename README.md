@@ -32,6 +32,6 @@ The protype was designed and constructed on a breadboard using the following com
 
 * Pushbutton
 
-* jumper wires
+* Jumper wires
 
 
