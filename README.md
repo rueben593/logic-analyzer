@@ -1,2 +1,1 @@
-# logic-analyzer
-assignment 2
+# Project 1 : “Logic Analyzer + Minimal Oscilloscope + Signal Generator” –Task Description
