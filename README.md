@@ -24,14 +24,14 @@ The requirements of the project are as follows:
 
 The protype was designed and constructed on a breadboard using the following components:
 
-Teensy 3.2 Microcontroller development board
+* Teensy 3.2 Microcontroller development board
 
-SDD1306 I2C controlled OLED Display
+* SDD1306 I2C controlled OLED Display
 
-10kOhm potentiometer
+* 10kOhm potentiometer
 
-Pushbutton
+* Pushbutton
 
-jumper wires
+* jumper wires
 
 
