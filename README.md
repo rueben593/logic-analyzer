@@ -1,1 +1,1 @@
-# Project 1 : “Logic Analyzer + Minimal Oscilloscope + Signal Generator” –Task Description
+# Project 1 : “Logic Analyzer + Minimal Oscilloscope + Signal Generator” 
