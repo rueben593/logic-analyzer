@@ -35,7 +35,5 @@ The protype was designed and constructed on a breadboard using the following com
 * Jumper wires
 
 # 3.METHODS 
-![enter image description here](%5Benter%20image%20description%20here%5D%28https://github.com/rueben593/logic-analyzer/blob/master/IMG_20200710_200306.jpg%29)
 
-
-
+(%5Benter%20image%20description%20here%5D%28https://github.com/rueben593/logic-analyzer/blob/master/IMG_20200710_200306.jpg%29)
