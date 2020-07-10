@@ -39,4 +39,4 @@ The protype was designed and constructed on a breadboard using the following com
 ![enter image description here](https://github.com/rueben593/logic-analyzer/blob/master/IMG_20200710_200306.jpg)
    # Prototype Image
    
-https://github.com/rueben593/logic-analyzer/blob/master/Untitled%20Sketch%20schematic.jpeg_schem.jpg
+![enter image description here](https://github.com/rueben593/logic-analyzer/blob/master/Untitled%20Sketch%20schematic.jpeg_schem.jpg)
