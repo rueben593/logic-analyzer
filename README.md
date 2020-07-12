@@ -91,6 +91,8 @@ The Inter-Integrated Circuit (I2C) Protocol is a protocol intended to allow mult
 
 ![enter image description here](https://github.com/rueben593/logic-analyzer/blob/master/Introduction-to-I2C-Data-Transmission-Diagram-Data-Frame.png)
 
+    #FIGURE: I2C PROTOCOL
+
 
 
 
