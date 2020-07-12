@@ -34,8 +34,10 @@ The protype was designed and constructed on a breadboard using the following com
 
 * Jumper wires
 
-# Youtube Link
-  https://youtu.be/8VC8J7hFTMM
+# Video Link
+
+https://youtu.be/03Rr8g5tuQY
+  
 
 # 3.METHODS 
 
