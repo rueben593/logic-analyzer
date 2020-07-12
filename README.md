@@ -88,6 +88,4 @@ The protype was designed and constructed on a breadboard using the following com
    
 The Inter-Integrated Circuit (I2C) Protocol is a protocol intended to allow multiple "slave" digital integrated circuits ("chips") to communicate with one or more "master" chips. Like the Serial Peripheral Interface (SPI), it is only intended for short distance communications within a single device. Like Asynchronous Serial Interfaces (such as RS-232 or UARTs), it only requires two signal wires to exchange information.
 
-![enter image description here](https://github.com/rueben593/logic-analyzer/blob/master/Untitled%20Sketch%20schematic.jpeg_schem.jpg)
-
 
