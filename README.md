@@ -99,9 +99,16 @@ The protype was designed and constructed on a breadboard using the following com
    
    
    
+   
+  # Logic Analyzer
+   
+   In this experiment i caanot do the logic analyzer.
+   
+   
+   
    # 4.Results
-     
-  All the sections in the program worked as expected except for the serial plot of the sine wave seen in the 'Sine Wave'
+   
+   In this experiment I get all the modes excluding logic analyzer.I am fully satisfied with the experiment.
      
    # 5. Discussion
    
