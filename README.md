@@ -55,8 +55,8 @@ The protype was designed and constructed on a breadboard using the following com
  * Selection Menu
  * Osci. Mode
  * Func.Gen. Mode
-#* Logic An. Mode
-#* Square wave
+* Logic An. Mode
+* Square wave
  * Sine wave
  * Triangle Wave
 
