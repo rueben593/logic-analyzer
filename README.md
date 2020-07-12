@@ -47,7 +47,7 @@ The protype was designed and constructed on a breadboard using the following com
 
 # Finite State Machine
    
-   A moore finite machine is used for the program.In more output actions only determined by its current state
+   A moore finite machine is used for the program.In moore output actions only determined by its current state
    
    # States
      
@@ -86,7 +86,7 @@ The protype was designed and constructed on a breadboard using the following com
    
    # I2C PROTOCOL
    
-The Inter-Integrated Circuit (I2C) Protocol is a protocol intended to allow multiple "slave" digital integrated circuits ("chips") to communicate with one or more "master" chips. Like the Serial Peripheral Interface (SPI), it is only intended for short distance communications within a single device. Like Asynchronous Serial Interfaces (such as RS-232 or UARTs), it only requires two signal wires to exchange information.
+ The Inter-Integrated Circuit (I2C) Protocol is a protocol intended to allow multiple "slave" digital integrated circuits ("chips") to communicate with one or more "master" chips. Like the Serial Peripheral Interface (SPI), it is only intended for short distance communications within a single device. Like Asynchronous Serial Interfaces (such as RS-232 or UARTs), it only requires two signal wires to exchange information.
 
 
 ![enter image description here](https://github.com/rueben593/logic-analyzer/blob/master/Introduction-to-I2C-Data-Transmission-Diagram-Data-Frame.png)
@@ -97,11 +97,11 @@ The Inter-Integrated Circuit (I2C) Protocol is a protocol intended to allow mult
    
    # 4.Results
      
-     All the sections in the program worked as expected except for the serial plot of the sine wave seen in the 'Sine Wave'
+  #All the sections in the program worked as expected except for the serial plot of the sine wave seen in the 'Sine Wave'
      
    # 5. Discussion
    
-      This prototype met all requirements apart from the logic analyzer function and have individual screens for every mode. I did not get enough time to implement the logic analyzer function even though there were ideas on how to do it. The screens for every mode weren't used to keep the state machine simple.
+   #This prototype met all requirements apart from the logic analyzer function and have individual screens for every mode. I did not get enough time to implement the logic analyzer function even though there were ideas on how to do it. The screens for every mode weren't used to keep the state machine simple.
     The performance of the minimal oscilloscope was slow. Thus, the rest of the function generators were slow because of it. The progam was designed to make use of no blocking functions such as 'for' loops, which impacted the method of data plotting on the OLED screen. 
 The function generators were not as customisable as they could have been due to the signals being based on the X value of the screen, rather than time. It would have been simpler and more conventional if the signals were time-based.
 The sine wave generator serial plot mismatch may have been fixed by using a float variable type to plot the values. 
