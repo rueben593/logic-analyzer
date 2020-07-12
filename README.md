@@ -42,6 +42,8 @@ The protype was designed and constructed on a breadboard using the following com
 
    # Schematic
    
+   ![enter image description here](https://github.com/rueben593/logic-analyzer/blob/master/schematic%20fritz_schem.jpg)
+   
 
 # Finite State Machine
    
