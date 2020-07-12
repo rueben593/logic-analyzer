@@ -47,9 +47,8 @@ https://youtu.be/03Rr8g5tuQY
 
    # Schematic
    
-   ![enter image description here](https://github.com/rueben593/logic-analyzer/blob/master/schematic%20fritz_schem.jpg)
-   
-
+  ![enter image description here](https://github.com/rueben593/logic-analyzer/blob/master/schematic%20fritz%20EMBEDDED_schem.jpg)
+  
 # Finite State Machine
    
    A moore finite machine is used for the program.In moore output actions only determined by its current state
