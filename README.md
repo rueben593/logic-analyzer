@@ -121,8 +121,7 @@ The sine wave generator serial plot mismatch may have been fixed by using a floa
    
    # 6.REFERENCES
     
-  Circuit Basics. (n.d.). Introduction to I2C Single Master Single Slave https://www.circuitbasics.com/basics-of-the-i2c-communication-protocol/
-
+  Circuit Basics. (n.d.). Introduction to I2C Single Master Single Slave https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.circuitbasics.com%2Fbasics-of-the-i2c-communication-protocol%2F&psig=AOvVaw1plctt76g5Bf26Wgw3pCst&ust=1594630830851000&source=images&cd=vfe&ved=0CAMQjB1qFwoTCPixl_asx-oCFQAAAAAdAAAAABAD
 
 
 
