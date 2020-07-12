@@ -79,6 +79,8 @@ The protype was designed and constructed on a breadboard using the following com
 # OLED waveform display
 # OLED text display
 # Serial plot waveform display
+
+![enter image description here](https://github.com/rueben593/logic-analyzer/blob/master/state%20transition%20diagram.jpg)
    
    # OLED Screen
    
