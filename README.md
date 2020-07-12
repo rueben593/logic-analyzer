@@ -41,7 +41,7 @@ The protype was designed and constructed on a breadboard using the following com
 
 # Prototype Image
    
-![enter image description here](https://github.com/rueben593/logic-analyzer/blob/master/Bread%20Board.jpg)
+![enter image description here](https://github.com/rueben593/logic-analyzer/blob/master/bread%20board%20ckt.jpg)
 
    # Schematic
    
