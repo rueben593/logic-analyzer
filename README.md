@@ -51,36 +51,36 @@ The protype was designed and constructed on a breadboard using the following com
    
    # States
      
-  # Start Screen
-# * Selection Menu
-# * Osci. Mode
-# * Func.Gen. Mode
-# * Logic An. Mode
-# * Square wave
-# * Sine wave
-# * Triangle Wave
+   Start Screen
+ * Selection Menu
+ * Osci. Mode
+ * Func.Gen. Mode
+#* Logic An. Mode
+#* Square wave
+ * Sine wave
+ * Triangle Wave
 
 # Events
 
-# * Button_Pressed
-# * Button_Pressed_and_potVal0
-# * Button_Pressed_and_potVal1
-# * Button_Pressed_and_potVal2
-# * Button_Pressed_and_potVal3
-# * Serial_input_1
-# * Serial_input_2
-# * Serial_input_3
+ * Button_Pressed
+ * Button_Pressed_and_potVal0
+ * Button_Pressed_and_potVal1
+ * Button_Pressed_and_potVal2
+ * Button_Pressed_and_potVal3
+ * Serial_input_1
+ * Serial_input_2
+ * Serial_input_3
 
 # Actions
 
-# Square wave signal
-# Sine wave signal
-# Triangle wave signal
-# Read channel signal
-# Analyse logic
-# OLED waveform display
-# OLED text display
-# Serial plot waveform display
+ Square wave signal
+ Sine wave signal
+ Triangle wave signal
+ Read channel signal
+ Analyse logic
+ OLED waveform display
+ OLED text display
+ Serial plot waveform display
 
 # State Transition Diagram
 
