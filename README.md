@@ -43,4 +43,42 @@ The protype was designed and constructed on a breadboard using the following com
    # Schematic
    
 ![enter image description here](https://github.com/rueben593/logic-analyzer/blob/master/Untitled%20Sketch%20schematic.jpeg_schem.jpg)
+
+
+# Finite State Machine
+   
+   A moore finite machine is used for the program.In more output actions only determined by its current state
+   
+   # States
+     
+  # Start Screen
+# * Selection Menu
+# * Osci. Mode
+# * Func.Gen. Mode
+# * Logic An. Mode
+# * Square wave
+# * Sine wave
+# * Triangle Wave
+
+# Events
+
+# * Button_Pressed
+# * Button_Pressed_and_potVal0
+# * Button_Pressed_and_potVal1
+# * Button_Pressed_and_potVal2
+# * Button_Pressed_and_potVal3
+# * Serial_input_1
+# * Serial_input_2
+# * Serial_input_3
+
+# Actions
+
+# Square wave signal
+# Sine wave signal
+# Triangle wave signal
+# Read channel signal
+# Analyse logic
+# OLED waveform display
+# OLED text display
+# Serial plot waveform display
    
