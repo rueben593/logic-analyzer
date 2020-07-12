@@ -38,12 +38,10 @@ The protype was designed and constructed on a breadboard using the following com
 
 # Prototype Image
    
-![enter image description here](https://github.com/rueben593/logic-analyzer/blob/master/IMG_20200710_200306.jpg)
+![enter image description here](https://github.com/rueben593/logic-analyzer/blob/master/Bread%20Board.jpg)
 
    # Schematic
    
-![enter image description here](https://github.com/rueben593/logic-analyzer/blob/master/Untitled%20Sketch%20schematic.jpeg_schem.jpg)
-
 
 # Finite State Machine
    
