@@ -95,8 +95,20 @@ The Inter-Integrated Circuit (I2C) Protocol is a protocol intended to allow mult
    
    
    
+   # 4.Results
+     
+     All the sections in the program worked as expected except for the serial plot of the sine wave seen in the 'Sine Wave'
+     
+   # 5. Discussion
    
-   # REFERENCES
+      This prototype met all requirements apart from the logic analyzer function and have individual screens for every mode. I did not get enough time to implement the logic analyzer function even though there were ideas on how to do it. The screens for every mode weren't used to keep the state machine simple.
+    The performance of the minimal oscilloscope was slow. Thus, the rest of the function generators were slow because of it. The progam was designed to make use of no blocking functions such as 'for' loops, which impacted the method of data plotting on the OLED screen. 
+The function generators were not as customisable as they could have been due to the signals being based on the X value of the screen, rather than time. It would have been simpler and more conventional if the signals were time-based.
+The sine wave generator serial plot mismatch may have been fixed by using a float variable type to plot the values. 
+
+
+   
+   # 6.REFERENCES
     
     Circuit Basics. (n.d.). Introduction to I2C Single Master Single Slave https://www.circuitbasics.com/basics-of-the-i2c-communication-protocol/
 
